@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: hexagonal
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/hexagonal
+
+phinacio:
+  client:
+    address:
+      url: http://localhost:8081/addresses
+
+
+
